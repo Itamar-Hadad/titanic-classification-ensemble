@@ -40,7 +40,6 @@ Use the Titanic dataset to predict passenger survival using a variety of classif
 ## 📁 Files
 - `Titanic.ipynb` – Notebook with full analysis
 - `submission.csv` – File submitted to Kaggle
-- `report.html` – (Optional) Exported version of notebook
 
 ## 📚 What I Learned
 - How different classifiers perform on the same data
